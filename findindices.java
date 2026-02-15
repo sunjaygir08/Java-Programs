@@ -6,7 +6,6 @@ public class findindices {
         }
     }
 }
-
 public static void main(String[] args) {
     findIndices("Programming", 'm'); 
 }
